@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fake News!",
+    "thumbnail": "/quiz/images/fake-news.png",
+    "url": "/quiz/fake-news",
+    "type": "true-false"
+  },
+  {
+    "name": "Rajoy o Homer Simpson?",
+    "thumbnail": "/quiz/images",
+    "url": "/quiz/rajoy-homer",
+    "type": "true-false"
+  }
+]
