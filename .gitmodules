@@ -1,3 +1,6 @@
 [submodule "fake-news"]
 	path = fake-news
 	url = https://github.com/compromis/fake-news-quiz
+[submodule "rajoy-homer"]
+	path = rajoy-homer
+	url = https://github.com/compromis/rajoy-or-homer-quiz
