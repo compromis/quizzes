@@ -1,14 +1,14 @@
 [
   {
     "name": "Fake News!",
-    "thumbnail": "/quiz/images/fake-news.png",
-    "url": "/quiz/fake-news",
+    "thumbnail": "https://compromis.net/quiz/images/fake-news.png",
+    "url": "https://compromis.net/quiz/fake-news",
     "type": "true-false"
   },
   {
     "name": "Rajoy o Homer Simpson?",
-    "thumbnail": "/quiz/images",
-    "url": "/quiz/rajoy-homer",
+    "thumbnail": "https://compromis.net/quiz/images",
+    "url": "https://compromis.net/quiz/rajoy-homer",
     "type": "true-false"
   }
 ]
