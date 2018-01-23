@@ -7,6 +7,13 @@
     "visible": true
   },
   {
+    "name": "Quant saps del Cas Gürtel?",
+    "thumbnail": "https://compromis.net/quiz/images/gurtel.jpg",
+    "url": "https://compromis.net/quiz/gurtel",
+    "type": "true-false",
+    "visible": true
+  },
+  {
     "name": "Rajoy o Homer Simpson?",
     "thumbnail": "https://compromis.net/quiz/images/rajoy-homer.jpg",
     "url": "https://compromis.net/quiz/rajoy-homer",
