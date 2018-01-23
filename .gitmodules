@@ -4,3 +4,6 @@
 [submodule "rajoy-homer"]
 	path = rajoy-homer
 	url = https://github.com/compromis/rajoy-or-homer-quiz
+[submodule "gurtel"]
+	path = gurtel
+	url = https://github.com/compromis/gurtel-quiz
