@@ -7,3 +7,6 @@
 [submodule "gurtel"]
 	path = gurtel
 	url = https://github.com/compromis/gurtel-quiz
+[submodule "quiz-backend"]
+	path = quiz-backend
+	url = https://github.com/compromis/quiz-backend
