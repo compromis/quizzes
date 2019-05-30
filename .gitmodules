@@ -10,3 +10,9 @@
 [submodule "quiz-backend"]
 	path = quiz-backend
 	url = https://github.com/compromis/quiz-backend
+[submodule "barbaritats-quiz"]
+	path = barbaritats-quiz
+	url = https://github.com/compromis/barbaritats-quiz
+[submodule "festes-quiz"]
+	path = festes-quiz
+	url = https://github.com/compromis/festes-quiz

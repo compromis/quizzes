@@ -14,10 +14,17 @@
     "visible": true
   },
   {
-    "name": "Rajoy o Homer Simpson?",
-    "thumbnail": "https://compromis.net/quiz/images/rajoy-homer.jpg",
-    "url": "https://compromis.net/quiz/rajoy-homer",
+    "name": "Festes VLC 🎉: Vertader o fals?",
+    "thumbnail": "https://compromis.net/quiz/images/festes-vlc.jpg",
+    "url": "https://compromis.net/quiz/vlc/festes",
     "type": "true-false",
-    "visible": false
+    "visible": true
+  },
+  {
+    "name": "Qui ha dit la barbaritat més gran?",
+    "thumbnail": "https://compromis.net/quiz/images/barbaritats.jpg",
+    "url": "https://compromis.net/quiz/barbaritats",
+    "type": "multiple-choice",
+    "visible": true
   }
 ]
